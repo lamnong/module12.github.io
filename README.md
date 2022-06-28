@@ -1,5 +1,5 @@
 # SQL Challenge: Employee Tracker
-##Github  link:  
+##Github  link:  https://github.com/lamnong/module12.github.io
 
 ```User Story
 
@@ -27,4 +27,4 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
 Demo video:
-[Demo video](video/demo.mov)
+[Demo video](https://youtu.be/B8anMrLO5ck)
